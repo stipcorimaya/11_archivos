@@ -1,10 +1,10 @@
 #include <iostream>
 #include <string>
-using namespace std;
+
 #include <fstream>
 #include <iomanip>
 
-
+using namespace std;
 
 int main() {
 	const int IGV = 18;
